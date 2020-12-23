@@ -1,0 +1,5 @@
+player,opponent,result,start,position,minute,touch,pressure,xg,xa,sca,gca,sot,pass_pct,pass_prog_dis,carries,dribble_prog_dis,dribble_attempt,dribble_suc
+Carles-Alena,Villarreal,W 4–0,N,AM,8,9,3,0.0,0.0,0,0,0,100.0,13,7,6,0,0
+Carles-Alena,Celta Vigo,W 3–0,N,DM,90,113,8,0.0,0.1,5,2,0,97.2,429,77,67,1,1
+Carles-Alena,Sevilla,D 1–1,N,CM,24,32,3,0.0,0.0,0,0,0,96.7,134,30,52,1,0
+Carles-Alena,Getafe,L 0–1,N,CM,26,50,7,0.0,0.1,2,0,0,90.5,149,38,70,0,0

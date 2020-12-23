@@ -1,0 +1,19 @@
+player,opponent,start,position,minute,touch,pressure,xg,xa,sca,gca,sot,pass_pct,carries,prog_dis,dribble_attempt,dribble_suc
+Lionel-Messi,Villarreal,Y*,FW,90,79,14,1.5,0.0,6,0,3,83.6,65,202,5,3
+Lionel-Messi,Celta Vigo,Y*,"FW,RW",90,89,13,0.2,0.2,6,2,1,79.2,66,213,6,5
+Lionel-Messi,Sevilla,Y*,FW,90,79,4,0.2,0.3,4,0,1,82.9,60,249,3,2
+Lionel-Messi,ec Ecuador,Y*,AM,90,,,,,,,1,,,,,
+Lionel-Messi,bo Bolivia,Y*,FW,90,,,,,,,0,,,,,
+Lionel-Messi,Getafe,Y*,"RW,AM",90,53,1,0.3,0.1,4,0,1,72.1,44,185,5,3
+Lionel-Messi,hu Ferencváros,Y*,FW,90,83,7,1.0,0.9,15,4,3,90.9,57,313,12,6
+Lionel-Messi,Real Madrid,Y*,FW,90,89,7,0.5,0.1,8,1,2,82.2,78,246,10,4
+Lionel-Messi,it Juventus,Y*,AM,90,97,12,1.3,0.5,8,2,0,91.6,82,370,10,7
+Lionel-Messi,Alavés,Y*,AM,90,93,5,0.7,0.2,7,0,4,78.6,82,318,13,11
+Lionel-Messi,ua Dynamo Kyiv,Y*,"RW,FW",90,89,3,1.1,0.2,11,1,3,81.1,75,268,9,5
+Lionel-Messi,Betis,N,FW,45,58,4,1.2,1.1,8,2,2,82.4,49,135,6,3
+Lionel-Messi,py Paraguay,Y*,AM,90,,,,,,,1,,,,,
+Lionel-Messi,pe Peru,Y*,AM,90,,,,,,,0,,,,,
+Lionel-Messi,Atlético Madrid,Y*,"AM,CM",90,65,8,0.5,0.4,8,0,1,71.4,57,216,8,5
+Lionel-Messi,,,"RW,FW",90,80,5,0.3,0.8,8,1,2,88.4,72,223,4,3
+Lionel-Messi,Osasuna,Y*,RW,90,108,4,0.6,0.1,13,2,5,77.0,96,355,10,7
+Lionel-Messi,,,AM,90,114,18,0.6,0.1,8,0,7,87.8,90,324,10,6
